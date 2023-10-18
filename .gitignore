@@ -1,0 +1,7 @@
+outputs/**
+data/**
+generated/**
+models/**
+__pycache__/**
+~/**
+!**/.gitkeep

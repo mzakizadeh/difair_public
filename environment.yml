@@ -1,0 +1,14 @@
+name: difair
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pytorch=1.13.1
+  - cudatoolkit=11.8
+  - transformers
+  - pandas
+  - matplotlib
+  - faker
+  - pip:
+      - adapter-transformers==3.1.0
+      - tokenizers==0.12.1

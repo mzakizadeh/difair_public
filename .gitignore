@@ -1,5 +1,5 @@
 outputs/**
-data/**
+data/**.csv
 generated/**
 models/**
 __pycache__/**

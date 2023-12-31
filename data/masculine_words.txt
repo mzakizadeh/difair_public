@@ -1,0 +1,560 @@
+actor
+actors
+airman
+airmen
+uncle
+uncles
+boy
+boys
+groom
+grooms
+brother
+brothers
+businessman
+businessmen
+chairman
+chairmen
+dude
+dudes
+dad
+dads
+daddy
+daddies
+son
+sons
+father
+fathers
+male
+males
+guy
+guys
+grandson
+grandsons
+guy
+guys
+he
+himself
+him
+his
+husband
+husbands
+king
+kings
+gentlemen
+gentleman
+lord
+lords
+sir
+man
+men
+sir
+mr.
+mr.
+policeman
+prince
+princes
+spokesman
+spokesmen
+cowboy
+cowboys
+cameramen
+busboy
+busboys
+bellboy
+bellboys
+barman
+barmen
+tailor
+tailors
+prince
+princes
+governor
+governors
+adultor
+adultors
+god
+gods
+host
+hosts
+abbot
+abbots
+actor
+actors
+bachelor
+bachelors
+baron
+barons
+beau
+beaus
+bridegroom
+bridegrooms
+duke
+dukes
+emperor
+emperors
+enchanter
+ﬁance
+ﬁances
+priest
+priests
+gentleman
+gentlemen
+grandfather
+grandfathers
+headmaster
+headmasters
+hero
+heros
+lad
+lads
+landlord
+landlords
+manservant
+manservants
+marquis
+masseur
+masseurs
+master
+masters
+monk
+monks
+nephew
+nephews
+priest
+priests
+sorcerer
+sorcerers
+stepfather
+stepfathers
+stepson
+stepsons
+steward
+stewards
+uncle
+uncles
+waiter
+waiters
+widower
+widowers
+wizard
+wizards
+Actor
+Actors
+Airman
+Airmen
+Uncle
+Uncles
+Boy
+Boys
+Groom
+Grooms
+Brother
+Brothers
+Businessman
+Businessmen
+Chairman
+Chairmen
+Dude
+Dudes
+Dad
+Dads
+Daddy
+Daddies
+Son
+Sons
+Father
+Fathers
+Male
+Males
+Guy
+Guys
+Grandson
+Grandsons
+Guy
+Guys
+He
+Himself
+Him
+His
+Husband
+Husbands
+King
+Kings
+Gentlemen
+Gentleman
+Lord
+Lords
+Sir
+Man
+Men
+Sir
+Mr.
+Mr.
+Policeman
+Prince
+Princes
+Spokesman
+Spokesmen
+Cowboy
+Cowboys
+Cameramen
+Busboy
+Busboys
+Bellboy
+Bellboys
+Barman
+Barmen
+Tailor
+Tailors
+Prince
+Princes
+Governor
+Governors
+Adultor
+Adultors
+God
+Gods
+Host
+Hosts
+Abbot
+Abbots
+Actor
+Actors
+Bachelor
+Bachelors
+Baron
+Barons
+Beau
+Beaus
+Bridegroom
+Bridegrooms
+Duke
+Dukes
+Emperor
+Emperors
+Enchanter
+FIance
+FIances
+Priest
+Priests
+Gentleman
+Gentlemen
+Grandfather
+Grandfathers
+Headmaster
+Headmasters
+Hero
+Heros
+Lad
+Lads
+Landlord
+Landlords
+Manservant
+Manservants
+Marquis
+Masseur
+Masseurs
+Master
+Masters
+Monk
+Monks
+Nephew
+Nephews
+Priest
+Priests
+Sorcerer
+Sorcerers
+Stepfather
+Stepfathers
+Stepson
+Stepsons
+Steward
+Stewards
+Uncle
+Uncles
+Waiter
+Waiters
+Widower
+Widowers
+Wizard
+Wizards
+ actor
+ actors
+ airman
+ airmen
+ uncle
+ uncles
+ boy
+ boys
+ groom
+ grooms
+ brother
+ brothers
+ businessman
+ businessmen
+ chairman
+ chairmen
+ dude
+ dudes
+ dad
+ dads
+ daddy
+ daddies
+ son
+ sons
+ father
+ fathers
+ male
+ males
+ guy
+ guys
+ grandson
+ grandsons
+ guy
+ guys
+ he
+ himself
+ him
+ his
+ husband
+ husbands
+ king
+ kings
+ gentlemen
+ gentleman
+ lord
+ lords
+ sir
+ man
+ men
+ sir
+ mr.
+ mr.
+ policeman
+ prince
+ princes
+ spokesman
+ spokesmen
+ cowboy
+ cowboys
+ cameramen
+ busboy
+ busboys
+ bellboy
+ bellboys
+ barman
+ barmen
+ tailor
+ tailors
+ prince
+ princes
+ governor
+ governors
+ adultor
+ adultors
+ god
+ gods
+ host
+ hosts
+ abbot
+ abbots
+ actor
+ actors
+ bachelor
+ bachelors
+ baron
+ barons
+ beau
+ beaus
+ bridegroom
+ bridegrooms
+ duke
+ dukes
+ emperor
+ emperors
+ enchanter
+ ﬁance
+ ﬁances
+ priest
+ priests
+ gentleman
+ gentlemen
+ grandfather
+ grandfathers
+ headmaster
+ headmasters
+ hero
+ heros
+ lad
+ lads
+ landlord
+ landlords
+ manservant
+ manservants
+ marquis
+ masseur
+ masseurs
+ master
+ masters
+ monk
+ monks
+ nephew
+ nephews
+ priest
+ priests
+ sorcerer
+ sorcerers
+ stepfather
+ stepfathers
+ stepson
+ stepsons
+ steward
+ stewards
+ uncle
+ uncles
+ waiter
+ waiters
+ widower
+ widowers
+ wizard
+ wizards
+ Actor
+ Actors
+ Airman
+ Airmen
+ Uncle
+ Uncles
+ Boy
+ Boys
+ Groom
+ Grooms
+ Brother
+ Brothers
+ Businessman
+ Businessmen
+ Chairman
+ Chairmen
+ Dude
+ Dudes
+ Dad
+ Dads
+ Daddy
+ Daddies
+ Son
+ Sons
+ Father
+ Fathers
+ Male
+ Males
+ Guy
+ Guys
+ Grandson
+ Grandsons
+ Guy
+ Guys
+ He
+ Himself
+ Him
+ His
+ Husband
+ Husbands
+ King
+ Kings
+ Gentlemen
+ Gentleman
+ Lord
+ Lords
+ Sir
+ Man
+ Men
+ Sir
+ Mr.
+ Mr.
+ Policeman
+ Prince
+ Princes
+ Spokesman
+ Spokesmen
+ Cowboy
+ Cowboys
+ Cameramen
+ Busboy
+ Busboys
+ Bellboy
+ Bellboys
+ Barman
+ Barmen
+ Tailor
+ Tailors
+ Prince
+ Princes
+ Governor
+ Governors
+ Adultor
+ Adultors
+ God
+ Gods
+ Host
+ Hosts
+ Abbot
+ Abbots
+ Actor
+ Actors
+ Bachelor
+ Bachelors
+ Baron
+ Barons
+ Beau
+ Beaus
+ Bridegroom
+ Bridegrooms
+ Duke
+ Dukes
+ Emperor
+ Emperors
+ Enchanter
+ FIance
+ FIances
+ Priest
+ Priests
+ Gentleman
+ Gentlemen
+ Grandfather
+ Grandfathers
+ Headmaster
+ Headmasters
+ Hero
+ Heros
+ Lad
+ Lads
+ Landlord
+ Landlords
+ Manservant
+ Manservants
+ Marquis
+ Masseur
+ Masseurs
+ Master
+ Masters
+ Monk
+ Monks
+ Nephew
+ Nephews
+ Priest
+ Priests
+ Sorcerer
+ Sorcerers
+ Stepfather
+ Stepfathers
+ Stepson
+ Stepsons
+ Steward
+ Stewards
+ Uncle
+ Uncles
+ Waiter
+ Waiters
+ Widower
+ Widowers
+ Wizard
+ Wizards

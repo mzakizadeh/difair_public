@@ -158,7 +158,6 @@ def main():
         "--no_normalization",
         dest="normalize",
         action="store_false",
-        type=bool,
         help="Toggle to normalize/unnormalize probability distribution",
     )
 
